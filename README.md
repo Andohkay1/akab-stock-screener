@@ -70,4 +70,4 @@ Where:
 
 Created by **Andoh Kwofie Amankwah-Baffo**  
 📧 [andykwofie.ak@gmail.com]  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourprofile)
+🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/Andohkay1/akab-stock-screener)
